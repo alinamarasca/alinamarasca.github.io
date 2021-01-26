@@ -1,0 +1,26 @@
+body {
+  background-color: #939597;
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  line height: 2.5em;
+  margin:50;
+  overflow:hidden;
+}
+h3{
+  color:#1b3450;
+  background-color: rgba(245, 245, 245, .5);
+  
+}
+.what {
+  background-color: #ccc8ad;
+}
+
+.about {
+  background-color: #dad2a2;
+  
+}
+.plans {
+  background-color: #e2d792;
+  
+}
