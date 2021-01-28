@@ -20,6 +20,14 @@ a{
   text-decoration: none;
   font-weight:300;
 }
+img {
+  border: 10px rgba(245, 245, 245, .5) solid;
+  max-height: 300px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
 .what {
   background-color: #ccc8ad;
   border-radius: 5px;
