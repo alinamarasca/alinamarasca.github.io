@@ -92,6 +92,7 @@ img {
 }
 footer {
   position:relative;
+  margin: 100px;
   bottom:0px;
   left:0;
   right:0;
@@ -101,6 +102,7 @@ footer {
     
   </div>
 footer p {
+  
   font-size: 10px;
   
 }
