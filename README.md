@@ -1,4 +1,4 @@
-# Individual Project for [HackYourFuture Belgium](https:\www.hackyourfuture.net)
+# Individual Project for [HackYourFuture Belgium](https://www.hackyourfuture.net)
 
 ---
 
